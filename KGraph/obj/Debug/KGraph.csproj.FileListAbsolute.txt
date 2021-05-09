@@ -1,0 +1,10 @@
+C:\Users\Work\source\repos\KGraph\KGraph\bin\Debug\KGraph.exe.config
+C:\Users\Work\source\repos\KGraph\KGraph\bin\Debug\KGraph.exe
+C:\Users\Work\source\repos\KGraph\KGraph\bin\Debug\KGraph.pdb
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.Form1.resources
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.Properties.Resources.resources
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.csproj.GenerateResource.cache
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.exe
+C:\Users\Work\source\repos\KGraph\KGraph\obj\Debug\KGraph.pdb
